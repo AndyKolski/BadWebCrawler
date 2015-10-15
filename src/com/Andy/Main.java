@@ -6,7 +6,7 @@ public class Main {
 
     public static String lastScanurl = "";
     public static String secondlastScanurl = "";
-    public static String Scanurl = "https://www.reddit.com";
+    public static String Scanurl = "https://github.com/";
     public static String ScanURLpast = "";
 
 
